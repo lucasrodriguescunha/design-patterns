@@ -1,4 +1,4 @@
-package Abstract_Factory;
+package abstract_factory;
 
 public class CaixaTermica implements Embalagem {
 

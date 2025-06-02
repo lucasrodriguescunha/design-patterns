@@ -1,4 +1,4 @@
-package Factory_Method;
+package factory_method;
 
 public class EntregaAerea extends ServicoEntrega {
 

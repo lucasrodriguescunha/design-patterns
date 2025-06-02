@@ -1,4 +1,4 @@
-package Factory_Method;
+package abstract_factory;
 
 public class Bicicleta implements Transporte {
 
@@ -7,5 +7,3 @@ public class Bicicleta implements Transporte {
         System.out.println("Entrega realizada por Bicicleta.");
     }
 }
-
-
