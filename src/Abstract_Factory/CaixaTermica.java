@@ -1,4 +1,9 @@
 package Abstract_Factory;
 
-public class CaixaTermica {
+public class CaixaTermica implements Embalagem {
+
+    @Override
+    public void embalar() {
+        System.out.println("Produto embalado em caixa térmica.");
+    }
 }
